@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/zach/Desktop/SpeedRead/SpeedRead"
+set -gx VIRTUAL_ENV "/home/zach/Desktop/PythonProjects/SpeedRead"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
