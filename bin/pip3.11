@@ -1,4 +1,4 @@
-#!/home/zach/Desktop/PythonProjects/SpeedRead/bin/python3
+#!/home/zach/Desktop/SpeedRead/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
